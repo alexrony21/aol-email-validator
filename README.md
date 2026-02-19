@@ -9,7 +9,7 @@
 3. HTTP Proxy Support  
 4. Advanced Mechanism for Checking Large Amounts  
 5. Unlimited Checking  
-6. Supports All Yahoo Domains  
+6. Supports All Aol Domains  
 7. 250+ CPM with Free Proxy  
 
 ---
